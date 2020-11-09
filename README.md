@@ -1,3 +1,5 @@
-# alfospammer
-#C copiright by Alfo 2020
-a simple spammer for discord .exe file
+Alfo Spammer
+
+1 - Dowload the file
+2- Run it 
+3 - Enjoy
